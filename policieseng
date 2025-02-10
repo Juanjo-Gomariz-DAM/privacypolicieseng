@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Privacy Policy - Last Dance</title>
+    <link rel="stylesheet" type="text/css" href="livelink.css" />
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            <div class="container">
+                <p class="title">Privacy Policy for Last Dance</p>
+            </div>
+        </div>
+
+        <div class="translations-content-container">
+            <div class="container">
+                <p style="font-size: 18px">Last updated: January 25, 2025</p>
+                <p>
+                    This Privacy Policy describes how we collect, use, and disclose your information
+                    when you use the app, and informs you about your privacy rights and how the law protects you.
+                </p>
+
+                <h2>Index</h2>
+                <ol class="indice-grande">
+                    <li><a href="#introduccion">Introduction</a></li>
+                    <li><a href="#transparencia">Transparency and trust</a></li>
+                    <li><a href="#informacion-recopilada">Information we collect</a></li>
+                    <li><a href="#uso-informacion">How we use the information</a></li>
+                    <li><a href="#compartir-informacion">How information is shared</a></li>
+                    <li><a href="#derechos-usuario">Your rights to access and control your personal data</a></li>
+                    <li>
+                        <a href="#seguridad">Information security</a>
+                        <ol>
+                            <a href="#enlaces-seguros">7.1 Secure links and warnings about links in private chats</a>
+                        </ol>
+                    </li>
+                    <li><a href="#retencion-datos">Data retention</a></li>
+                    <li><a href="#politicas-menores">Age policies and protection of minors</a></li>
+                    <li><a href="#servicios-analitica">Analytics and advertising services provided by others</a></li>
+                    <li><a href="#operaciones-internacionales">Our international operations and data transfers</a></li>
+                    <li><a href="#divulgacion-espana">Privacy disclosure in Spain</a></li>
+                    <li><a href="#divulgacion-europa">Privacy disclosure in Europe</a></li>
+                    <li><a href="#divulgacion-fuera">Privacy laws in the rest of the world</a></li>
+                    <li><a href="#cambios-politica">Changes to this Policy</a></li>
+                    <li><a href="#contacto">How to contact us</a></li>
+                </ol>
+
+                <h2 id="introduccion">1. Introduction</h2>
+                <p>
+                    <b><em>Last Dance</em></b> is a dating app specifically designed for people over 60 years old who are looking for meaningful connections with other users.
+                    Our goal is to create a safe and friendly space where users can meet new people to build romantic or friendship relationships, according to their preferences.
+                    The platform is designed to offer personalized matches through advanced matching algorithms based on interests, location, and personal preferences.
+                    Additionally, <b><em>Last Dance</em></b> prioritizes the safety and well-being of its users through verification systems, content moderation, and reporting of inappropriate behavior.
+                    We are committed to protecting the privacy and security of our users' personal data.
+                    By using our app, you agree to the practices described in this policy.
+                </p>
+
+                <p>
+                    To ensure data security, we use Firebase as a database to store user information and their activity within the app. Firebase allows us to manage data securely and efficiently, including user authentication, image storage, and real-time synchronization.
+                </p>
+                <p>
+                    Before using the app, we ask for your explicit consent for the collection and use of data. You can manage your consent at any time through the app settings.
+                </p>
+
+                <h2 id="transparencia">2. Transparency and trust</h2>
+                <p>At <b><em>Last Dance</em></b>, we believe that transparency is key to building trust among our users. Therefore, we always inform you clearly and simply about what data is collected, how it is used, and how it can be managed.</p>
+                <p>Additionally, we continuously work to improve our platform to ensure it is a safe and inclusive space for everyone. We implement measures against harassment, promote respectful interactions, and encourage open communication about privacy and digital security.</p>
+                <p>If you have any questions about how we handle your information or need assistance, our support team is available to help you at any time.</p>
+
+                <h2 id="informacion-recopilada">3. Information we collect</h2>
+                <h3>3.1. Information provided by the user</h3>
+                <p>We collect the following information when you register or interact with our app:</p>
+                <ul>
+                    <li><b>Personal data:</b> name, email address, password, age, hobbies, and sexual preferences.</li>
+                    <li>
+                        <b>Profile content:</b> photos, biography, preferences within the app (e.g., love or friendship).
+                        These images and data are securely stored in Firebase Storage.
+                    </li>
+                    <li>
+                        <b>Messages and conversations:</b> the messages you send to other users in private conversations,
+                        which are encrypted for your security and stored in Firebase Firestore.
+                    </li>
+                </ul>
+                <h3>3.2 Automatically collected information</h3>
+                <p>We automatically collect certain data when you use the app to ensure its proper functioning and personalize your experience:</p>
+                <ul>
+                    <li>
+                        <b>Device data:</b> information about your mobile device, operating system,
+                        browser, device identifiers, etc.
+                    </li>
+                    <li>
+                        <b>Geolocation (if allowed):</b> if you give your consent, we may collect location data to show nearby matches.
+                        We use OpenStreetMap to process and display user locations accurately and effectively.
+                        You can disable the geolocation feature at any time from your device settings.
+                    </li>
+                    <li><b>In-app interactions:</b> such as likes, dislikes, profile changes, actions within the app's social features, etc.</li>
+                    <li>
+                        <b>Analytics data:</b> we use Google Analytics for Firebase to obtain
+                        information about app usage time, most used features, retention rates,
+                        and other metrics that help us improve the user experience.
+                    </li>
+                    <li>
+                        <b>Cookies and tracking technologies:</b> we use cookies and similar technologies to personalize
+                        content, improve app functionality, and analyze user interaction.
+                    </li>
+                </ul>
+
+                <h2 id="uso-informacion">4. How we use the information</h2>
+                <p>We use your information for the following purposes:</p>
+                <ul>
+                    <li>
+                        <b>Provide and improve services:</b> we use the information provided to enable the app's features,
+                        such as profile creation, user interaction, and message management.
+                    </li>
+                    <li>
+                        <b>Facilitate user interaction:</b> your information is used to help other users discover your profile, send messages,
+                        and create connections within the app.
+                    </li>
+                    <li>
+                        <b>Ensure app security and integrity:</b> we implement security measures to protect your information, prevent fraud, detect
+                        inappropriate behavior, and enforce community policies.
+                    </li>
+                    <li>
+                        <b>Personalize profile recommendations:</b> we use matching algorithms based on your preferences and behavior within the
+                        app to show you relevant profiles, helping you find meaningful connections.
+                    </li>
+                    <li><b>Push notifications and alerts:</b> we send push notifications to inform you about new matches, messages, or relevant activities within the app.</li>
+                    <li>
+                        <b>Improve user experience:</b> we use data from in-app interactions and usage analytics to make continuous improvements
+                        to the app's interface and functionalities (UI/UX).
+                    </li>
+                    <li>
+                        <b>Support and customer service:</b> if you need help, we may use your contact information to provide technical support, resolve issues, and answer
+                        questions related to the app's use.
+                    </li>
+                </ul>
+
+                <h2 id="compartir-informacion">5. How information is shared</h2>
+                <p>We do not sell your information. We may share data with service providers and legal authorities if necessary.</p>
+                <ul>
+                    <li>
+                        <b>With other users:</b> your profile will be visible to potential matches,
+                        according to the privacy settings you have configured.
+                    </li>
+                    <li>
+                        <b>With service providers:</b> we use third-party services,
+                        such as Firebase Authentication to manage secure logins and
+                        analytics services to optimize the experience.
+                    </li>
+                    <li>
+                        <b>For legal reasons:</b> we may share data with competent authorities
+                        if required to comply with legal regulations or resolve disputes.
+                    </li>
+                    <li>
+                        <b>With advertising partners:</b> we share information anonymously to improve
+                        the personalization of ads you see in the app.
+                    </li>
+                    <li>
+                        <b>With analytics services:</b> we use tools like Google Analytics
+                        to measure app performance and improve user experience.
+                    </li>
+                </ul>
+
+                <h2 id="derechos-usuario">6. Your rights to access and control your personal data</h2>
+                <p>You can:</p>
+                <ul>
+                    <li>
+                        <b>Access your information:</b> view and update your profile, preferences,
+                        and other personal data directly from the app settings.
+                    </li>
+                    <li>
+                        <b>Log out and log in with another account:</b>
+                        if you wish, you can switch accounts at any time from the app settings.
+                    </li>
+                    <li>
+                        <b>Delete your account and data:</b> you have the right to delete your account and associated data
+                        from the app settings. This data will be deleted from our servers,
+                        except for data that must be retained for legal reasons.
+                    </li>
+                    <li>
+                        <b>Request data portability:</b> you can request a copy of
+                        your personal data in electronic format to transfer it to another service.
+                    </li>
+                </ul>
+
+                <h2 id="seguridad">7. Information security</h2>
+                <p>We implement measures to protect your data, including:</p>
+                <ul>
+                    <li>
+                        <b>Secure authentication:</b> we use Firebase Authentication to ensure that
+                        only authorized users can access your account.
+                    </li>
+                    <li>
+                        <b>Data encryption:</b> all data sent between your device and our
+                        servers is encrypted using standard security protocols (such as TLS 1.2 or higher)
+                        both in transit and at rest.
+                    </li>
+                    <li>
+                        <b>Regular backups:</b> we perform regular backups of user data
+                        to protect information in case of technical failures.
+                    </li>
+                </ul>
+
+                <h3 id="enlaces-seguros">7.1 Secure links and warnings about links in private chats</h3>
+                <p>
+                    In <b><em>Last Dance</em></b>, the only links considered secure are those that redirect you to:
+                </p>
+                <ul>
+                    <li>The <b>User Manual</b>, which you can access by clicking the corresponding button in the app's settings section.</li>
+                    <li>The <b>Privacy Policy</b>, which you can access from the settings menu on the settings screen.</li>
+                </ul>
+                <p>
+                    <b>Warning about links in private chats:</b> If another user sends you a link through private chat,
+                    please note that <b><em>Last Dance</em></b> cannot guarantee the security of that link. Links shared
+                    by other users may direct you to external websites that are not under our control, and they could contain
+                    malicious or inappropriate content. We recommend being cautious when clicking on links shared by other
+                    users and avoiding providing personal information on external websites.
+                </p>
+                <p>
+                    If you find a suspicious link or believe another user is sharing malicious links,
+                    please report it immediately using the <b>Report User</b> feature in the app.
+                </p>
+
+                <p>
+                    Although we implement security measures, no platform is completely infallible.
+                    We recommend being cautious when sharing private information, such as images, videos, or messages,
+                    as they could be accessible by other users if proper precautions are not taken.
+                </p>
+
+                <h2 id="retencion-datos">8. Data retention</h2>
+                <p>
+                    We retain your data as long as you have an active account.
+                    If you delete your account, we will delete all your data, except for data that must be retained for legal or security reasons.
+                </p>
+                <ul>
+                    <li>
+                        <b>Inactive accounts:</b> if you do not access your account for 12 consecutive months,
+                        we will automatically delete the associated data.
+                        However, if you explicitly request data retention
+                        (e.g., for account recovery purposes or for any other legitimate reason),
+                        we will retain the data until your request is fulfilled.
+                    </li>
+                    <li>
+                        <b>Legal reasons:</b> if there are legal, contractual, or security obligations
+                        that require data retention for a longer period
+                        (e.g., compliance with tax audits, pending legal disputes, or fraud prevention measures),
+                        we will retain the data only for as long as necessary.
+                    </li>
+                </ul>
+
+                <h2 id="politicas-menores">9. Age policies and protection of minors</h2>
+                <p>
+                    The app is primarily intended for people over 60 years old.
+                    If a user registers and lies about their age, they may access the app
+                    as long as they are of legal age, but we remind you that it is the user's responsibility to provide truthful information.
+                </p>
+
+                <ul>
+                    <li>
+                        <b>Age verification:</b> if a user is found providing incorrect information about their age,
+                        they may be reported using the Report User button in the private chat settings.
+                    </li>
+                    <li>
+                        <b>We do not collect data from minors under 18.</b>
+                        If we detect that a user is under 18, we will delete their account immediately.
+                        If we discover that we have collected personal data from anyone
+                        under 13 years old without verifiable parental consent,
+                        we will take urgent measures to delete that information from our servers.
+                    </li>
+                </ul>
+
+                <h2 id="servicios-analitica">10. Analytics and advertising services provided by others</h2>
+                <p>
+                    We use third-party services, such as Google Analytics and advertising platforms,
+                    to improve the user experience and display personalized ads.
+                </p>
+                <ul>
+                    <li>
+                        <b>Usage analytics:</b> we collect information about how you interact with the
+                        app to improve the interface, performance, and features of the app.
+                        We use Firebase Analytics, among other services, to perform these analyses.
+                    </li>
+                    <li>
+                        <b>Personalized advertising:</b> we use advertising platforms to display
+                        relevant ads based on your activity within the app.
+                        These services may use cookies and other technologies to analyze your behavior and offer targeted ads.
+                        Users can control or disable ad personalization from their account settings.
+                    </li>
+                </ul>
+
+                <h2 id="operaciones-internacionales">11. Our international operations and data transfers</h2>
+                <p>
+                    To provide our services efficiently, we operate globally and may transfer
+                    personal information to servers located outside the user's country of residence. These transfers
+                    are carried out in compliance with applicable laws and ensuring an adequate level of data protection.
+                </p>
+                <p>
+                    We ensure that all transferred data is protected through standard contractual clauses
+                    approved by the European Commission or internationally recognized certification mechanisms.
+                    Additionally, we implement technical and organizational measures to ensure the security of information in transit and at rest.
+                </p>
+
+                <h2 id="divulgacion-espana">12. Privacy disclosure in Spain</h2>
+                <p>
+                    In Spain, we comply with the Organic Law on Personal Data Protection and Guarantee of Digital Rights (LOPDGDD).
+                    This law establishes specific requirements for the collection, storage, and use of personal data within Spanish territory.
+                </p>
+                <p>
+                    Additionally, we offer options for Spanish users to exercise their rights over their data easily and transparently,
+                    including direct request mechanisms within the app.
+                </p>
+
+                <h2 id="divulgacion-europa">13. Privacy disclosure in Europe</h2>
+                <p>
+                    In compliance with the General Data Protection Regulation (GDPR),
+                    we ensure that users within the European Economic Area have the right to:
+                </p>
+                <ul>
+                    <li><b>Access their personal information:</b> you can request a copy of the data we have about you.</li>
+                    <li>
+                        <b>Correct incorrect or outdated information:</b> you have the right
+                        to correct any errors in the information we store.
+                    </li>
+                    <li>
+                        <b>Delete your data:</b> you can request the deletion of your data
+                        when it is no longer necessary for the purposes for which it was collected.
+                    </li>
+                    <li>
+                        <b>Restrict or object to the processing of your data:</b> under certain circumstances,
+                        you can request that we do not process your data.
+                    </li>
+                    <li><b>Data portability:</b> you have the right to request that your data be transferred to another service provider.</li>
+                </ul>
+                <p>If you have any concerns about how we handle your data in Europe, you can contact the data protection authority in your country.</p>
+
+                <h2 id="divulgacion-fuera">14. Privacy Laws Around the World</h2>
+                <p>
+                    If you reside outside the European Economic Area or Spain, different privacy laws apply.
+                </p>
+                <ul>
+                    <li>
+                        <b>Global Compliance:</b> We strive to comply with international regulations on the protection of personal data, respecting privacy rights established in various jurisdictions. However, the scope of laws varies from country to country.
+                    </li>
+                    <li>
+                        <b>Local Laws:</b> Depending on your location, there may be additional local laws governing the collection, use, and disclosure of your personal data.
+                        By using our application, you agree that your information may be transferred and processed outside your country of residence, and it is your responsibility to comply with local laws in your country.
+                    </li>
+                </ul>
+
+                <h2 id="cambios-politica">15. Changes to This Policy</h2>
+                <p>
+                    We may update this policy at any time to reflect changes in our practices or legal requirements.
+                    In the event of significant changes, we will notify users through the application or by email before they take effect.
+                </p>
+                <p>
+                    If the change affects how we use your personal data, we will request your consent again before proceeding with the processing.
+                </p>
+
+                <h2 id="contacto">16. How to Contact Us</h2>
+                <p>For any questions, requests, or concerns regarding our privacy policy, you can contact us at:</p>
+                <p><a href="mailto:soporte@lastdance.com">soporte@lastdance.com</a></p>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
